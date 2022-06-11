@@ -1,1 +1,1 @@
-# pterodactyl
+# control panel
